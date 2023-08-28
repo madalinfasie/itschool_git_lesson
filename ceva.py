@@ -1,1 +1,1 @@
-print('altceva paco')
+print('paco e zeul meu')
