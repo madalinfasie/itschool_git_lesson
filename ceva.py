@@ -1,1 +1,1 @@
-print('altceva paco')
+print('altceva')
